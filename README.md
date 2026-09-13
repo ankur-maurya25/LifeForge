@@ -78,15 +78,7 @@ npm run dev
 
 ---
 
-## 🎬 Hackathon Presentation & Demo Resources
 
-* [Presentation Pitch Deck Content](PRESENTATION_CONTENT.md): 15 structured pitch sections.
-* [System Architecture Diagram](ARCHITECTURE.md): Detailed Mermaid diagram of the full system topology.
-* [2-Minute Stage Demo Script](DEMO_SCRIPT.md): Second-by-second presentation walkthrough.
-* [Judges' Q&A Guide](JUDGES_QA.md): 14 prepared technical and business answers for judging panels.
-* [Production Deployment Manual](DEPLOYMENT.md): Step-by-step guide for hosting on Vercel, Render, and MongoDB Atlas.
-
----
 
 ## 📸 Screenshots & UI Preview
 
